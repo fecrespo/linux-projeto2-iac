@@ -12,5 +12,5 @@ echo "Baixando e copiando os arquivos de aplicação..."
 cd /tmp
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 unzip main.zip
-cd Linux-site-dio-main
+cd linux-site-dio-main
 cp -R * /var/www/html/ 
